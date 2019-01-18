@@ -1,0 +1,27 @@
+body {
+	background-color: #333333;
+}
+
+div {
+	background-color: #c0dec5;
+  margin: 64px;
+  padding: 32px 48px 0px;
+}
+
+p {
+	font-family: Georgia, serif;
+	font-size: 20px;
+	line-height: 1.4em;
+}
+
+.name {
+  font-variant: small-caps;
+  font-family: "Tahoma, sans-serif";
+  letter-spacing: .25em;
+  padding: 0px 3px;
+  background-color: rgb(100,150,150, .5);
+}
+
+.source {
+  text-align: right;
+}
