@@ -5,39 +5,42 @@ margin: 0;
 
 header {
 	background-color: #F15B31;
+	color: #FFFFFF;
 	padding: 30px 20px;
 
 }
 
 h1 {
 	font-family: "Raleway", sans-serif;
-	color: #FFFFFF;
+	color: #0D2C40;
 	letter-spacing: 1px;
 	font-weight: 400;
 	font-size: 45px;
+	text-decoration: none;
 	margin: 0;
 
 }
 
 nav {
 	background-color: #00A6B3;
-	padding: 20px 0;
+	color: #FFFFFF;
+	padding: 20px 0px;
 }
 
 a {
 	font-family: "Raleway", sans-serif;
-	border-bottom: 2px solid transparent;
-	color: #FFFFFF;
+	color: #F15B31;
 	letter-spacing: 1px;
 	font-weight: 600;
 	font-size: 18px;
 	padding: 0px 20px;
 	text-decoration: none;
+	border-bottom: 2px solid transparent;
 	
 }
 
 a:hover {
-	color: blue;
+	color: white;
 }
 
 main {
